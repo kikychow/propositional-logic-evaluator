@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="360"
+   viewBox="0 0 338.66667 95.250001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0beta1 (32d4812, 2019-09-19)"
+   sodipodi:docname="assembler_flow.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1823"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1821" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1370" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker4317"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4315" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path980"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <filter
+       height="1.1093927"
+       y="-0.054696346"
+       width="1.017368"
+       x="-0.0086840166"
+       id="filter956"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur958"
+         stdDeviation="0.12151644"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       height="1.1011936"
+       y="-0.050596809"
+       width="1.0062475"
+       x="-0.0031237579"
+       id="filter960"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur962"
+         stdDeviation="0.12151644"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter956-7"
+       x="-0.0086840168"
+       width="1.017368"
+       y="-0.054696348"
+       height="1.1093926">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.12151644"
+         id="feGaussianBlur958-8" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter960-3"
+       x="-0.0031237579"
+       width="1.0062475"
+       y="-0.050596807"
+       height="1.1011935">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.12151644"
+         id="feGaussianBlur962-7" />
+    </filter>
+    <filter
+       height="1.1011935"
+       y="-0.050596807"
+       width="1.0062475"
+       x="-0.0031237579"
+       id="filter960-3-6"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur962-7-8"
+         stdDeviation="0.12151644"
+         inkscape:collect="always" />
+    </filter>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2358-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2356-4" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2358-8-8"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2356-4-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2358-8-8-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2356-4-9-3" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2358-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2356-0" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2358-83"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2356-6" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1370-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2358-8-8-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2356-4-9-0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2358-8-8-1-1"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2356-4-9-0-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2358-83-8"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2356-6-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1370-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lend-2-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1370-7-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2358-8-8-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2356-4-9-7" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7546875"
+     inkscape:cx="640"
+     inkscape:cy="180"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="907"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       y="40.178349"
+       x="124.02647"
+       height="7.9375"
+       width="42.333332"
+       id="rect1204"
+       style="fill:#cccccc;stroke-width:0.251924" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="192.38074"
+       y="45.558659"
+       id="text837-3-1"
+       inkscape:export-xdpi="113.78409"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"><tspan
+         sodipodi:role="line"
+         id="tspan835-3-9"
+         x="192.38074"
+         y="45.558659"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">tokenize(...)</tspan></text>
+    <text
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       id="text837-3-1-5"
+       y="5.5629792"
+       x="-0.072162107"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter956)"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cambria;-inkscape-font-specification:'Cambria Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="5.5629792"
+         x="-0.072162107"
+         id="tspan835-3-9-5"
+         sodipodi:role="line">First Pass</tspan></text>
+    <text
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       id="text837-3-1-0"
+       y="14.678226"
+       x="-0.26026481"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter960)"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="14.678226"
+         x="-0.26026481"
+         id="tspan835-3-9-3"
+         sodipodi:role="line">scan_file_for_labels(...)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter956-7)"
+       x="108.09689"
+       y="5.7268515"
+       id="text837-3-1-5-8"
+       inkscape:export-xdpi="113.78409"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"><tspan
+         sodipodi:role="line"
+         id="tspan835-3-9-5-3"
+         x="108.09689"
+         y="5.7268515"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Cambria;-inkscape-font-specification:'Cambria Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Second Pass</tspan></text>
+    <text
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       id="text837-3-1-52"
+       y="19.073782"
+       x="264.28467"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="19.073782"
+         x="264.28467"
+         id="tspan835-3-9-2"
+         sodipodi:role="line">assemble(...)</tspan></text>
+    <rect
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       y="39.536903"
+       x="282.44131"
+       height="7.9375"
+       width="42.333332"
+       id="rect1204-4-0"
+       style="fill:#cccccc;stroke-width:0.251924" />
+    <text
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       id="text837-3-1-52-8-8"
+       y="44.786194"
+       x="286.50204"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.264583"
+         y="44.786194"
+         x="286.50204"
+         id="tspan835-3-9-2-7-2"
+         sodipodi:role="line">curr_code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="128.0872"
+       y="45.531509"
+       id="text837-3-1-52-8-8-0"
+       inkscape:export-xdpi="113.78409"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"><tspan
+         sodipodi:role="line"
+         id="tspan835-3-9-2-7-2-7"
+         x="128.0872"
+         y="45.531509"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.264583">curr_line</tspan></text>
+    <text
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       id="text837-3-1-3"
+       y="78.86515"
+       x="245.74838"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="78.86515"
+         x="245.74838"
+         id="tspan835-3-9-0"
+         sodipodi:role="line">fwrite(..., file_bin)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="147.70685"
+       y="77.976021"
+       id="text837-3-1-3-3"
+       inkscape:export-xdpi="113.78409"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"><tspan
+         sodipodi:role="line"
+         id="tspan835-3-9-0-6"
+         x="147.70685"
+         y="77.976021"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">write_constants(...)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter960-3)"
+       x="1.7101568"
+       y="40.833794"
+       id="text837-3-1-0-5"
+       inkscape:export-xdpi="113.78409"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"><tspan
+         sodipodi:role="line"
+         id="tspan835-3-9-3-0"
+         x="1.7101568"
+         y="40.833794"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">add_to_table(table, ...)</tspan></text>
+    <text
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       id="text837-3-1-0-5-9"
+       y="63.208313"
+       x="209.96472"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter960-3-6)"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="63.208313"
+         x="209.96472"
+         id="tspan835-3-9-3-0-1"
+         sodipodi:role="line">get_addr(table, ...)</tspan></text>
+    <path
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       inkscape:connector-curvature="0"
+       id="path2339-0"
+       d="m 46.972508,33.21934 c 0,-13.83334 0,-13.83334 0,-13.83334 z"
+       style="fill:none;stroke:#000000;stroke-width:0.2985px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2358-8)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="107.46366"
+       y="19.998419"
+       id="text837-3-1-3-6"
+       inkscape:export-xdpi="113.78409"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"><tspan
+         sodipodi:role="line"
+         id="tspan835-3-9-0-8"
+         x="107.46366"
+         y="19.998419"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">fgets(..., file_ass)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2985px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2358-8-8)"
+       d="m 145.19314,36.810286 c 0,-13.83334 0,-13.83334 0,-13.83334 z"
+       id="path2339-0-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="113.78409"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png" />
+    <rect
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       style="fill:#cccccc;stroke-width:0.251924"
+       id="rect1204-4"
+       width="42.333332"
+       height="7.9375"
+       x="195.4622"
+       y="13.593498" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="199.52293"
+       y="18.689312"
+       id="text837-3-1-52-8"
+       inkscape:export-xdpi="113.78409"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"><tspan
+         sodipodi:role="line"
+         id="tspan835-3-9-2-7"
+         x="199.52293"
+         y="18.689312"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.264583">curr_type</tspan></text>
+    <path
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       inkscape:connector-curvature="0"
+       id="path2339-0-3-3"
+       d="m 216.62887,25.309376 c 0,13.83334 0,13.83334 0,13.83334 z"
+       style="fill:none;stroke:#000000;stroke-width:0.2985px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2358-8-8-2)" />
+    <path
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       inkscape:connector-curvature="0"
+       id="path2339-3"
+       d="m 187.17903,43.856242 c -13.83334,0 -13.83334,0 -13.83334,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.2985px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2358-0)" />
+    <path
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       inkscape:connector-curvature="0"
+       id="path2339-04"
+       d="m 257.99752,17.562246 c -13.83334,0 -13.83334,0 -13.83334,0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.2985px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2358-83)" />
+    <path
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       inkscape:connector-curvature="0"
+       id="path1365"
+       d="m 269.95168,57.264631 c 0,-34.807868 0,-34.807868 0,-34.807868"
+       style="fill:none;stroke:#000000;stroke-width:0.261449;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+    <path
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       style="fill:none;stroke:#000000;stroke-width:0.261449;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-2)"
+       d="m 265.983,22.456764 c 0,34.807867 0,34.807867 0,34.807867"
+       id="path1365-1"
+       inkscape:connector-curvature="0" />
+    <rect
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       y="4.3330812"
+       x="195.46219"
+       height="7.9375"
+       width="95.25"
+       id="rect1204-4-08"
+       style="fill:#cccccc;stroke-width:0.377886" />
+    <text
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       id="text837-3-1-52-8-2"
+       y="9.4798822"
+       x="198.76137"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;stroke-width:0.264583"
+         y="9.4798822"
+         x="198.76137"
+         id="tspan835-3-9-2-7-0"
+         sodipodi:role="line">mnemonic, operands, expression</tspan></text>
+    <path
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       inkscape:connector-curvature="0"
+       id="path2339-0-3-8"
+       d="m 304.30918,35.72561 c 0,-13.83334 0,-13.83334 0,-13.83334 z"
+       style="fill:none;stroke:#000000;stroke-width:0.2985px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2358-8-8-1)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.351174px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2358-8-8-1-1)"
+       d="m 304.30918,71.18888 c 0,-19.146161 0,-19.146161 0,-19.146161 z"
+       id="path2339-0-3-8-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="113.78409"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2985px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2358-83-8)"
+       d="m 227.56494,76.778468 c 13.83334,0 13.83334,0 13.83334,0 z"
+       id="path2339-04-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="113.78409"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png" />
+    <rect
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       style="fill:#4d4d4d;stroke-width:0.384821"
+       id="rect1204-6"
+       width="42.333332"
+       height="18.520834"
+       x="80.503448"
+       y="59.136841" />
+    <text
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       id="text837-3-1-52-8-8-0-5"
+       y="70.387833"
+       x="92.19162"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Courier;-inkscape-font-specification:'Courier Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f2f2f2;stroke-width:0.264583"
+         y="70.387833"
+         x="92.19162"
+         id="tspan835-3-9-2-7-2-7-5"
+         sodipodi:role="line">table</tspan></text>
+    <path
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       inkscape:connector-curvature="0"
+       id="path1819"
+       d="M 125.48247,62.311856 C 206.6871,62.073567 206.6871,62.073567 206.6871,62.073567"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker1823)" />
+    <path
+       inkscape:export-filename="/Users/Julian_Wong/Imperial College London/CO120.3 - Programming III (C)/arm11_23/doc/pipeline.png"
+       inkscape:export-ydpi="113.78409"
+       inkscape:export-xdpi="113.78409"
+       inkscape:connector-curvature="0"
+       id="path2339-0-3-9"
+       d="m 83.678506,56.755636 c 0,-13.83334 0,-13.83334 0,-13.83334 z"
+       style="fill:none;stroke:#000000;stroke-width:0.2985px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2358-8-8-3)" />
+  </g>
+</svg>
